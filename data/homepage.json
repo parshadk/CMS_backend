@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Innovate",
+        "title1": "Integrate",
+        "title2": "Impact",
+        "part2": [
+            {
+                "title": "WE ARE",
+                "title1": "ART OF TECH"
+            },
+            {
+                "title": "We build and scale game-changing digital products.",
+                "title1": "We've been in the digital trenches since 1996, obsessing over building and growing impactful online businesses. We offer a powerful toolkit to get you there:",
+                "first": {
+                    "head": "Digital Transformation: ",
+                    "content": "We guide you through a digital makeover that unlocks new possibilities."
+                },
+                "second": {
+                    "head": "Experience Design: ",
+                    "content": "We craft intuitive and emotionally resonant experiences that keep your audience hooked."
+                },
+                "third": {
+                    "head": "Product Powerhouse:",
+                    "content": "From concept to launch and beyond, we ensure your product is a market leader."
+                },
+                "fourth": {
+                    "head": "Data-Driven Decisions: ",
+                    "content": "We use data to make magic happen, optimizing your online presence for maximum impact."
+                },
+                "fifth": {
+                    "head": "Campaign Champions:",
+                    "content": "We plan and execute online campaigns that drive results."
+                }
+            }
+        ],
+        "part3": [
+            {
+                "title": "WHAT WE DO",
+                "sec1": [
+                    {
+                        "image": "/images/genesys.jpg"
+                    },
+                    {
+                        "title": "Genesys",
+                        "head": "We wondered:",
+                        "subhead": "HOW INDIA’S MAPPING TECH COULD CATCH UP WITH THE WORLD?",
+                        "content": "We were tickled pink at the idea of tackling a project so large that it made Rocket science look easy! The result was a product that was both tech-savvy and scalable, that’s used by millions even today!",
+                        "button": "Take a look"
+                    }
+                ],
+                "sec2": [
+                    {
+                        "image": "/images/rediff.jpg"
+                    },
+                    {
+                        "title": "Rediff Money",
+                        "head": "We asked ourselves:",
+                        "subhead": "WHAT DO WE NEED TO BRING THE STOCK MARKET OFF THE SCREEN AND TO THE MASSES?",
+                        "content": "Building revolutionary tech? That’s just a regular Tuesday for the team. The outcome, a first-of-its-kind solution that took the financial sector in India by storm.",
+                        "button": "Here's what we came up with"
+                    }
+                ],
+                "sec3": [
+                    {
+                        "image": "/images/uwc.jpg"
+                    },
+                    {
+                        "title": "UWC India Committee",
+                        "head": "Approached us:",
+                        "subhead": "WITH THE NEED FOR A SOLUTION TO STREAMLINE THEIR LARGE SCALE APPLICATIONS PROCESS",
+                        "content": "Was it a challenge to collate and streamline what was a multi-layered, multi-platform network of processes?",
+                        "content1": "Yes. Did we do it? Also yes.",
+                        "button": "Take a peek at our solutions"
+                    }
+                ],
+                "sec4": [
+                    {
+                        "image": "/images/technology.jpg"
+                    },
+                    {
+                        "title": "Our Solutions",
+                        "subhead": "A LOOK AT ALL OF OUR WORK AND THE INTERESTING STORIES BEHIND THEM",
+                        "content": "Tech solutions that just make sense.",
+                        "button": "Explore what we've created"
+                    }
+                ]
+            }
+        ]
+    }
+]
