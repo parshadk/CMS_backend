@@ -1,0 +1,85 @@
+[
+    {
+        "title":"Our Work",
+        "genesys":[
+            {
+                "image":"/images/genesys.jpg"
+            },
+            {
+                "title":"GENESYS",
+                "subtitle":"A new way to see the world",
+                "content":"Partnered with a GIS major to bring mapping and street view services to a new market with applications from utility to entertainment to tourism",
+                "content1":"In 2012 we brought ‘street view’ to India, changing the way people explored and navigated their towns and cities. We partnered with Quikr to enhance real estate sales. Working with the Ministry of Tourism we brought never-before walkthroughs of our country’s heritage from your computer or mobile screen. The service is now used by Google to power Google Maps.",
+                "content2":"How can you help a billion, semi-literate users find the way to their destination? To offer and discover e-commerce around them? We are working on the answer in partnership with Genesys and Google."
+            }
+        ],
+        "Moviebeam":[
+            {
+                "image":"/images/clients-itv.jpg"
+            },
+            {
+                "title":"MovieBeam",
+                "subtitle":"Next-level in-room entertainment",
+                "content":"We developed an immersive guest experience for one of America's largest providers of hospitality technology solutions.",
+                "content1":"A state-of-the-art, in-room entertainment system for Moviebeam (Disney-founded company), featuring virtual concierge, in-room dining, video on demand, billing & checkout and more. To be deployed with clients like Charter Communication’s Spectrum Enterprise."
+            }
+        ],
+        "RediffMon":[
+            {
+                "image":"/images/rediff.jpg"
+            },
+            {
+                "title":"Rediff Moneywiz",
+                "subtitle":"A financial revolution",
+                "content":"Another of our firsts, a real-time personal finance web site bringing live data at no cost to our platform's users",
+                "content1":"In 2008 we revolutionised personal finance by being the very first service to offer LIVE and FREE stock market data from NSE & BSE to the 5.2 million users of our stock market portal (then 21% of India’s Internet users)."
+            }
+        ],
+        "Bloomberg":[
+            {
+                "image":"/images/bloomberg_utv.webp"
+            },
+            {
+                "title":"Bloomberg UTV",
+                "subtitle":"UGC in Finance",
+                "content":"In 2010, we became the first service globally, to introduce UGC with a unique, performance-driven credibility management for users. Bloomberg UTV was the world’s first stock market app on Samsung Smart TVs and showcased in Korea’s “Best of Samsung”."
+              
+            }
+        ],
+        "UWC":[
+            {
+                "image":"/images/uwc.jpg"
+            },
+            {
+                "title":"UWC Committee India",
+                "subtitle":"Streamlining admissions",
+                "content":"Admissions Portal for an international schools network with end-to-end integration across verticals.",
+                "content1":"We worked with UWC India to make college admissions and applicant assessment easier and more efficient while integrating local and global processes in a custom CRM for students, teachers, parents, reviewers, and NGOs."
+            }
+        ],
+        "Cineestan":[
+            {
+                "image":"/images/clients-ent.png"
+            },
+            {
+                "title":"Cinestaan",
+                "subtitle":"Exhaustive cinema Database",
+                "content":"We are proud to be associated with one of the most extensive cinema databases available to the general public, along with deep dive information on people and movies.",
+                "content1":"In 2015, Cinestaan.com launched to fill a gap in the movie news landscape. Competitors focused on either celebrity gossip or overly academic film analysis. Cinestaan offered a unique editorial approach, catering to all audiences.",
+                "content2":"Our content appealed to everyone, from casual movie fans following the latest news to serious cinephiles seeking in-depth analysis. This strategy attracted thousands of contributors, making Cinestaan's database the most comprehensive of its kind globally.",
+                "content3":"By focusing on in-depth content without celebrity gossip, Cinestaan became the go-to source for entertainment news, especially among young adults. We captured the attention of a massive 18-to-24-year-old audience within the entertainment category."
+            }
+        ],
+        "Healthcare":[
+            {
+                "image":"/images/clients-hlt.jpg"
+            },
+            {
+                "title":"HealthCare",
+                "subtitle":"Patient Management and data tracking",
+                "content":"We are developing comprehensive patient profile management and adherence tracking solutions along with real-time dashboards for HCPs working together in themed communities.",
+                "content1":"We are working with the UK govt to offer improved integration between NHS hospitals and local healthcare organisations to free up beds and improve outcomes for their patients."
+            }
+        ]
+    }
+]

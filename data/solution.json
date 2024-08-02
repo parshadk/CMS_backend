@@ -1,0 +1,28 @@
+[
+    {
+        "title":"Our Solutions",
+        "sec1":[
+            {
+                "image":"/images/solutions-healthcare.jpeg"
+            },
+            {
+                "title":"HealthTech by AOTC",
+                "subtitle":"Making smart healthcare personal",
+                "content":"Offering comprehensive patient management and services to healthcare professionals while building an intimate community that is a safe space for chronically ill patients.",
+                "button":"Know More"
+            }
+            
+        ],
+        "sec2":[
+            {
+                "image":"/images/uwc.jpg"
+            },
+            {
+                "title":"EduTech by AOTC",
+                "subtitle":"Applications Management System",
+                "content":"Offering comprehensive patient management and services to healthcare professionals while building an intimate community that is a safe space for chronically ill patients.",
+                "button":"Know More"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "title":"Offerings",
+        "subtitle":"We have been privileged to work with clients from across the globe in Finance, Healthcare, GIS, Entertainment, E-commerce, Academics, and more",
+        "sec1": {   
+            "title":"Technology",
+            "image":"/images/technology.jpg",
+            "content":"We help bring your digital properties to life with proprietary, state-of-the-art technology. We work to understand your needs and analyse the market to help provide tech solutions that put you ahead of the competition. Our offerings include",
+            "button":"Know More"
+        },
+        "sec2": {   
+            "title":"Digital Marketing",
+            "image":"/images/digitalmarketing.jpg",
+            "content":"Boost brand awareness, accelerate lead generation, and optimise conversions using a data-drive approach through Art Of Tech Consulting’s Digital Marketing as a Service (DMaaS) solution. Reach ideal audiences with pinpoint accuracy through precise audience segmentation and psychographic targeting.",
+            "button":"Know More"
+        },
+        "sec3": {   
+            "title":"Design",
+            "image":"/images/design.jpg",
+            "content":"AOTC will help you forge an unforgettable brand identity with our comprehensive design services. We provide a holistic approach that includes branding strategy, logo creation, and user interface (UI) / user experience (UX) design.",
+            "button":"Know More"
+        }
+    }
+]
